@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-app-Blogs/static/css/main.b6862d50.chunk.css",
+    "main.js": "/react-app-Blogs/static/js/main.5c474208.chunk.js",
+    "main.js.map": "/react-app-Blogs/static/js/main.5c474208.chunk.js.map",
+    "runtime-main.js": "/react-app-Blogs/static/js/runtime-main.8196e59d.js",
+    "runtime-main.js.map": "/react-app-Blogs/static/js/runtime-main.8196e59d.js.map",
+    "static/js/2.101a71f6.chunk.js": "/react-app-Blogs/static/js/2.101a71f6.chunk.js",
+    "static/js/2.101a71f6.chunk.js.map": "/react-app-Blogs/static/js/2.101a71f6.chunk.js.map",
+    "index.html": "/react-app-Blogs/index.html",
+    "static/css/main.b6862d50.chunk.css.map": "/react-app-Blogs/static/css/main.b6862d50.chunk.css.map",
+    "static/js/2.101a71f6.chunk.js.LICENSE.txt": "/react-app-Blogs/static/js/2.101a71f6.chunk.js.LICENSE.txt",
+    "static/media/background.9e13f58f.png": "/react-app-Blogs/static/media/background.9e13f58f.png",
+    "static/media/beautiful-stories.c53d42be.jpg": "/react-app-Blogs/static/media/beautiful-stories.c53d42be.jpg",
+    "static/media/coding.a3b48351.jpg": "/react-app-Blogs/static/media/coding.a3b48351.jpg",
+    "static/media/designed-for-everyone.70f5fa4c.jpg": "/react-app-Blogs/static/media/designed-for-everyone.70f5fa4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8196e59d.js",
+    "static/js/2.101a71f6.chunk.js",
+    "static/css/main.b6862d50.chunk.css",
+    "static/js/main.5c474208.chunk.js"
+  ]
+}
